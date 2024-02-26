@@ -1,0 +1,19 @@
+{
+  "name": "mostrarmensaje",
+  "version": "1.0.0",
+  "description": "funcion para mostrar un mensajito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlaguz/mostrarmensaje.git"
+  },
+  "author": "carlaguz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlaguz/mostrarmensaje/issues"
+  },
+  "homepage": "https://github.com/carlaguz/mostrarmensaje#readme"
+}
