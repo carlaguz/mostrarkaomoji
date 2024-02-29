@@ -1,7 +1,7 @@
 {
-  "name": "mostrarmensaje",
-  "version": "1.0.0",
-  "description": "funcion para mostrar un mensajito",
+  "name": "mostrarkaomoji",
+  "version": "1.2.1",
+  "description": "funcion para mostrar un kaomoji random",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,9 @@
-# Mostrar mensaje
-    *   Mostrar un mensaje simple 
+# Kaomojis
+    *   Paquete para mostrar un kaomoji random. (。・ω・。) 
+
+### Instalación
+    *   npm install kaomojis
 
 ### Uso
-    *   MostrarMsj();
+    *   const kaomoji = require('kaomojis');
+    *   kaomoji.MostrarKaomoji();
